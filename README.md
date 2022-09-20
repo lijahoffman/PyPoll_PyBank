@@ -1,1 +1,5 @@
 # python-challenge
+
+main.py in PyBank analyses the financial data of a company. The script reads a csv file containing dates and their associated profits/losses and generates the total number of months included in the data set, the net amount of profits/losses over the entire period, the average change in profits/losses per month, and the greatest increase and decrease (date and amount) over the entire period. The results of this analysis are printed to the terminal and exported as a text file to the Analysis folder. 
+
+main.py in PyPoll analyses the results of an election in a small, rural town. The script reads a csv file containing voter ids, county, and candidate selection and generates the total number of votes cast, a list of all of the candidates who received votes and their associated number of votes and percentage of votes, and the winner of the election based on the popular vote. The results of this analysis are printed to the terminal and exported to a text file in the Analysis folder. 
