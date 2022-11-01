@@ -1,4 +1,4 @@
-# python-challenge
+# PyPoll_PyBank
 
 main.py in PyBank analyses the financial data of a company. The script reads a csv file containing dates and their associated profits/losses and generates the total number of months included in the data set, the net amount of profits/losses over the entire period, the average change in profits/losses per month, and the greatest increase and decrease (date and amount) over the entire period. The results of this analysis are printed to the terminal and exported as a text file to the Analysis folder. 
 
